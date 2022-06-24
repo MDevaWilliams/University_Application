@@ -39,5 +39,6 @@ public class UniversityApplication {
 
 	}
 	
+	System.out.println("hello");
 
 }
